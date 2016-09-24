@@ -1,0 +1,13 @@
+{
+	"repaintName": "Tutorial Repaint",
+	"author": "SocialOfficer",
+	"description": "Test-Repaint",
+	"TextureInfos": [
+		{
+			"MeshName": "Mesh",
+			"MaterialName": "MAN_LC_Exterior_Lack",
+			"ParameterName": "BaseTexture",
+			"TextureFilename": "repaint.png"
+		}
+	]
+}
